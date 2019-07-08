@@ -1,0 +1,6 @@
+{
+    "name": "premium-module",
+    "version": "0.0.1",
+    "description": "Premium plugin",
+    "main": "index.js"
+}
