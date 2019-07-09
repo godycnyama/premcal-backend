@@ -12,5 +12,5 @@ Ensure you have Node 10.15.3.
 Ensure you have NPM 6+ installed.
 Ensure you have MongoDB installed.
 Ensure you have Git installed.
-
+To install, run the following command: git clone git //github.com/ajaxorg/ace.git
 Install Node packages npm install
