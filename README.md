@@ -12,5 +12,9 @@ Ensure you have Node 10.15.3.
 Ensure you have NPM 6+ installed.
 Ensure you have MongoDB installed.
 Ensure you have Git installed.
-To install, run the following command: git clone git //github.com/ajaxorg/ace.git
-Install Node packages npm install
+To install, run the following command: git clone https://github.com/godycnyama/premcal-backend.git in the command line.
+cd to premcal-backend root and install Node packages by running the following command: npm install.
+Before you run the application, make sure MongoDB is running on you system first.
+To run the application make sure you are in the premcal-backend root then run the following command: node server.js.
+The server runs on port 8000.If port 8000 is in use on your system, change the port in the server.js file.
+To access the front-end, navigate to localhost:8000 in your browser.If you changed the port on which the server is running, just type that port number in the browser instead of 8000.
