@@ -16,6 +16,6 @@ To run the application make sure you are in the premcal-backend root then run th
 The server runs on port 8000.If port 8000 is in use on your system, change the port in the server.js file line number 9.
 To access the front-end, navigate to localhost:8000 in your browser.If you changed the port on which the server is running, just type that port number in the browser instead of 8000.
 
-#Running unit tests
+# Running unit tests
 
 Make sure you are in the project root.Run npm test.
