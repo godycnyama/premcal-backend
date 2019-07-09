@@ -16,4 +16,4 @@ To access the front-end, navigate to localhost:8000 in your browser.If you chang
 
 ## Running unit tests
 
-Make sure you are in the project root.Run npm test in the command line.
+Make sure you are in the project root.Run **npm test** in the command line.
