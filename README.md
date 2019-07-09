@@ -7,8 +7,8 @@ This is an application for calculating insurance premiums given a 13 digit South
 ## Installation/Setup
 
 Ensure you have Node v8.12.0+,NPM 6+, MongoDB, and Git installed.
-To install the app, run the following command: *git clone https://github.com/godycnyama/premcal-backend.git* in the command line.
-cd to premcal-backend root and install Node packages by running the following command: *npm install*.
+To install the app, run the following command: **git clone https://github.com/godycnyama/premcal-backend.git** in the command line.
+cd to premcal-backend root and install Node packages by running the following command: **npm install**.
 Before you run the application, make sure MongoDB is running on you system first.
 To run the application make sure you are in the premcal-backend root then run the following command: node server.js.
 The server runs on port 8000.If port 8000 is in use on your system, change the port in the server.js file line number 9.
